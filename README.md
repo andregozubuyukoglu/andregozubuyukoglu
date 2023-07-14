@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React** & **MERN**
 
-- 👨‍💻 All of my projects are available at [https://eclectic-llama-25fb8c.netlify.app/](https://eclectic-llama-25fb8c.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://andregozubuyuk.vercel.app](https://andregozubuyuk.vercel.app)
 
 - 📫 How to reach me andregozubuyuk@gmail.com
 
