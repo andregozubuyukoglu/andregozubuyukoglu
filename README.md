@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React** & **MERN**
 
-- 👨‍💻 All of my projects are available at [https://andregozubuyuk.vercel.app]([https://andregozubuyuk.vercel.app](https://andregozubuyuk.com.tr/))
+- 👨‍💻 All of my projects are available at [https://andregozubuyuk.com.tr/)](https://andregozubuyuk.com.tr/))
 
 - 📫 How to reach me andregozubuyuk@gmail.com
 
