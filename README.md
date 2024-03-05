@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React** & **MERN**
 
-- 👨‍💻 All of my projects are available at [https://andregozubuyuk.com.tr/)](https://andregozubuyuk.com.tr/)
+- 👨‍💻 All of my projects are available at [https://andregozubuyuk.com.tr/](https://andregozubuyuk.com.tr/)
 
 - 📫 How to reach me andregozubuyuk@gmail.com
 
@@ -14,9 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andre gözübüyükoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre gözübüyükoğlu" height="30" width="40" /></a>
-<a href="https://instagram.com/andregozubuyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andregozubuyuk" height="30" width="40" /></a>
-<a href="https://discord.gg/Mowixi#3773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mowixi#3773" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andre-gözübüyükoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre gözübüyükoğlu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
