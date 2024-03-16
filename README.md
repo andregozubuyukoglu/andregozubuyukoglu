@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/newsfeed/001/259/523/58a.gif">
 
-- 🌱 I’m currently learning **React** & **MERN**
+- 🌱 I’m currently learning **React** & **PHP**
 
 - 👨‍💻 All of my projects are available at [https://andregozubuyuk.com.tr/](https://andregozubuyuk.com.tr/)
 
